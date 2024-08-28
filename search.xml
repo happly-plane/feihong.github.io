@@ -9,6 +9,10 @@
 <li>注意HF_ENDPOINT环境变量需在huggingface相关库之前，否则不生效</li>
 </ul>
 ]]></content>
+      <categories>
+        <category>LLM</category>
+        <category>Pytorch</category>
+      </categories>
       <tags>
         <tag>Pytorch</tag>
         <tag>LLM</tag>
